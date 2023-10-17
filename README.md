@@ -1,1 +1,1 @@
-#This is a clone of Amazon home page
+# This is a clone of Amazon home page

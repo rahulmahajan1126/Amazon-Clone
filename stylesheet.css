@@ -9,3 +9,15 @@
     height: 60px;
     color:white;
 }
+
+.nav_logo{
+    height:50px;
+    width: 100px;
+}
+
+.logo{
+    background-size: cover;
+    background-image:url("amazon_logo.png") ;
+    height:50px;
+    width:100%;
+}

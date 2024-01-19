@@ -132,3 +132,47 @@ span{
     font-size: 0.9rem;
     font-weight: 700;
 }
+
+/* hero section */
+.hero-section{
+    background-image: url(hero_image.jpg);
+    background-size: cover;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.hero-message{
+    background-color: white;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+    width: 80%;
+    margin-bottom: 25px;
+}
+
+.hero-message a{
+    color: #007185;
+}
+
+/* shop section */
+.shop-section{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+
+.box{
+    height: 400px;
+    width: 23%;
+    border: solid 2px black;
+    background-color: white;
+    padding: 20px 0px 15px;
+}
+
+.box-img{
+    height: 300px;
+}
